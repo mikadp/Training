@@ -1,2 +1,3 @@
-# Training
+# Face recognition training
 Python trainings
+
